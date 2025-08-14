@@ -1,0 +1,4 @@
+Timestamp,Service Mode,Payment Mode,Food ID,Food Name,Qty,Unit Price (with GST),Total Price,Total Bill Amount
+2025-08-03_12-41-36,Takeaway,UPI,PK1005,Palak Pakora,2,21.0,63.0,189.0
+2025-08-03_12-41-36,Takeaway,UPI,DS1005,Pineapple Pastry,3,21.0,63.0,189.0
+2025-08-03_12-41-36,Takeaway,UPI,BV1002,Adrak Chai,3,21.0,63.0,189.0

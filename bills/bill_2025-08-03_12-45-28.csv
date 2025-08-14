@@ -1,0 +1,4 @@
+Timestamp,Service Mode,Payment Mode,Food ID,Food Name,Qty,Unit Price (with GST),Total Price,Total Bill Amount
+2025-08-03_12-45-28,Dine-in,Cash,PK1005,Palak Pakora,2,21.0,56.7,170.1
+2025-08-03_12-45-28,Dine-in,Cash,DS1005,Pineapple Pastry,3,21.0,56.7,170.1
+2025-08-03_12-45-28,Dine-in,Cash,BV1002,Adrak Chai,3,21.0,56.7,170.1

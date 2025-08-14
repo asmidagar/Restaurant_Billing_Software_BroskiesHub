@@ -1,0 +1,5 @@
+Timestamp,Service Mode,Payment Mode,Food ID,Food Name,Qty,Unit Price (with GST),Total Price,Total Bill Amount
+2025-08-04_17-21-59,Takeaway,Card,BV1002,Adrak Chai,2,31.5,63.0,252.0
+2025-08-04_17-21-59,Takeaway,Card,PK1003,Paneer Cheese Pakora,2,31.5,63.0,252.0
+2025-08-04_17-21-59,Takeaway,Card,BV1004,Strawberry Shake,2,31.5,63.0,252.0
+2025-08-04_17-21-59,Takeaway,Card,SMS1003,Paneer Samosa,2,31.5,63.0,252.0

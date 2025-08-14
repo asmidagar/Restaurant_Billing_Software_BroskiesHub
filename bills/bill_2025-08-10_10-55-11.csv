@@ -1,0 +1,6 @@
+Timestamp,Service Mode,Payment Mode,Food ID,Food Name,Qty,Unit Price (with GST),Total Price,Total Bill Amount
+2025-08-10 10-55-11,Dine-in,Card,ch1001,Chole Bhature,1,105.0,105.0,478.8
+2025-08-10 10-55-11,Dine-in,Card,ch1002,Palak Patta Chaat,1,42.8,42.8,478.8
+2025-08-10 10-55-11,Dine-in,Card,pk1001,Aloo Pakora,2,21.2,42.4,478.8
+2025-08-10 10-55-11,Dine-in,Card,pk1003,Paneer Cheese Pakora,3,53.0,159.0,478.8
+2025-08-10 10-55-11,Dine-in,Card,ds1002,Choco Truffle Pastry,2,64.8,129.6,478.8

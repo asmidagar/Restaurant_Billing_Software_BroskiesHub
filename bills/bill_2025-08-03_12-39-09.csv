@@ -1,0 +1,12 @@
+Timestamp,Service Mode,Payment Mode,Food ID,Food Name,Qty,Unit Price (with GST),Total Price,Total Bill Amount
+2025-08-03_12-39-09,Dine-in,Card,SMS1005,Pizza Samosa,4,32.4,145.8,1603.8
+2025-08-03_12-39-09,Dine-in,Card,CH1001,Chole Bhature,2,32.4,145.8,1603.8
+2025-08-03_12-39-09,Dine-in,Card,MM1003,Paneer Steam Momos,3,32.4,145.8,1603.8
+2025-08-03_12-39-09,Dine-in,Card,SMS1002,Aloo Samosa,3,32.4,145.8,1603.8
+2025-08-03_12-39-09,Dine-in,Card,CH1003,Chole Chaat,3,32.4,145.8,1603.8
+2025-08-03_12-39-09,Dine-in,Card,MM1004,Veg Fried Momos,2,32.4,145.8,1603.8
+2025-08-03_12-39-09,Dine-in,Card,MM1006,Paneer Fried Momos,4,32.4,145.8,1603.8
+2025-08-03_12-39-09,Dine-in,Card,BV1001,Elaichi Chai,3,32.4,145.8,1603.8
+2025-08-03_12-39-09,Dine-in,Card,BV1005,Customized Shake,5,32.4,145.8,1603.8
+2025-08-03_12-39-09,Dine-in,Card,DS1004,Butterscotch Pastry,3,32.4,145.8,1603.8
+2025-08-03_12-39-09,Dine-in,Card,DS1005,Pineapple Pastry,5,32.4,145.8,1603.8

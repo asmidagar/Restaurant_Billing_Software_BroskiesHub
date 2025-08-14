@@ -1,0 +1,5 @@
+Timestamp,Service Mode,Payment Mode,Food ID,Food Name,Qty,Unit Price (with GST),Total Price,Total Bill Amount
+2025-08-05_14-49-58,Dine-in,UPI,MM1004,Veg Fried Momos,2,42.4,76.32,305.28
+2025-08-05_14-49-58,Dine-in,UPI,BV1004,Strawberry Shake,2,42.4,76.32,305.28
+2025-08-05_14-49-58,Dine-in,UPI,CH1001,Chole Bhature,2,42.4,76.32,305.28
+2025-08-05_14-49-58,Dine-in,UPI,PK1004,Gobhi Pakora,2,42.4,76.32,305.28

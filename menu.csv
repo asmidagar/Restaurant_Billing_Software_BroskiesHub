@@ -1,0 +1,36 @@
+Food_ID,Food_Name,Category,Price,GST
+sms1001,Cheese Samosa,Indian Snack,40,5
+sms1002,Aloo Samosa,Indian Snack,20,5
+sms1003,Paneer Samosa,Indian Snack,30,5
+sms1004,Shezwan Samosa,Indian Snack,50,5
+sms1005,Pizza Samosa,Indian Snack,50,5
+ch1001,Aloo Tikki Chaat,Indian Snack,35,7
+ch1002,Palak Patta Chaat,Indian Snack,40,7
+ch1003,Chole Chaat,Indian Snack,35,7
+vd1001,Classic Vada Pav,Indian Snack,20,7
+vd1002,Cheese Vada Pav,Indian Snack,35,7
+vd1003,Paneer Vada Pav,Indian Snack,40,7
+vd1004,Schezwan Vada Pav,Indian Snack,50,7
+ch1001,Chole Bhature,Indian Snack,100,5
+pk1001,Aloo Pakora,Indian Snack,20,6
+pk1002,Paneer Pakora,Indian Snack,35,6
+pk1003,Paneer Cheese Pakora,Indian Snack,50,6
+pk1004,Gobhi Pakora,Indian Snack,40,6
+pk1005,Palak Pakora,Indian Snack,30,6
+mm1001,Veg Steam Momos,Chinese,40,6
+mm1002,Soya Steam Momos,Chinese,35,6
+mm1003,Paneer Steam Momos,Chinese,60,6
+mm1004,Veg Fried Momos,Chinese,50,6
+mm1005,Soya Fried Momos,Chinese,45,6
+mm1006,Paneer Fried Momos,Chinese,70,6
+bv1001,Elaichi Chai,Beverage,20,5
+bv1002,Adrak Chai,Beverage,20,5
+bv1003,Chocolate Shake,Beverage,40,5
+bv1004,Strawberry Shake,Beverage,35,5
+bv1005,Customized Shake,Beverage,60,5
+ds1001,Chocolate Pastry,Dessert,40,8
+ds1002,Choco Truffle Pastry,Dessert,60,8
+ds1003,Black Forest Pastry,Dessert,35,8
+ds1004,ButterScotch Pastry,Desert,40,8
+ds1005,Pineapple Pastry,Dessert,30,8
+ds1006,White Forest Pastry,Dessert,45,8

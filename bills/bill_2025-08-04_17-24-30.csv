@@ -1,0 +1,4 @@
+Timestamp,Service Mode,Payment Mode,Food ID,Food Name,Qty,Unit Price (with GST),Total Price,Total Bill Amount
+2025-08-04_17-24-30,Dine-in,UPI,BV1003,Chocolate Shake,3,47.7,128.79,386.37
+2025-08-04_17-24-30,Dine-in,UPI,PK1005,Palak Pakora,3,47.7,128.79,386.37
+2025-08-04_17-24-30,Dine-in,UPI,MM1005,Soya Fried Momos,3,47.7,128.79,386.37

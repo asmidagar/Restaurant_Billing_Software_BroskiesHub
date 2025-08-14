@@ -1,0 +1,6 @@
+Timestamp,Service Mode,Payment Mode,Food ID,Food Name,Qty,Unit Price (with GST),Total Price,Total Bill Amount
+2025-08-04_17-23-29,Dine-in,Cash,BV1005,Customized Shake,2,64.8,155.52,777.6
+2025-08-04_17-23-29,Dine-in,Cash,MM1004,Veg Fried Momos,3,64.8,155.52,777.6
+2025-08-04_17-23-29,Dine-in,Cash,CH1001,Chole Bhature,2,64.8,155.52,777.6
+2025-08-04_17-23-29,Dine-in,Cash,PK1004,Gobhi Pakora,2,64.8,155.52,777.6
+2025-08-04_17-23-29,Dine-in,Cash,DS1002,Choco Truffle Pastry,3,64.8,155.52,777.6

@@ -1,0 +1,5 @@
+Timestamp,Service Mode,Payment Mode,Food ID,Food Name,Qty,Unit Price (with GST),Total Price,Total Bill Amount
+2025-08-10 11-57-04,Takeaway,UPI,vd1001,Classic Vada Pav,2,21.4,42.8,346.1
+2025-08-10 11-57-04,Takeaway,UPI,vd1003,Paneer Vada Pav,3,42.8,128.4,346.1
+2025-08-10 11-57-04,Takeaway,UPI,pk1001,Aloo Pakora,3,21.2,63.6,346.1
+2025-08-10 11-57-04,Takeaway,UPI,pk1002,Paneer Pakora,3,37.1,111.3,346.1

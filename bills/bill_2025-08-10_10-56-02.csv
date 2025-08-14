@@ -1,0 +1,7 @@
+Timestamp,Service Mode,Payment Mode,Food ID,Food Name,Qty,Unit Price (with GST),Total Price,Total Bill Amount
+2025-08-10 10-56-02,Takeaway,Cash,ch1001,Chole Bhature,1,105.0,94.5,546.03
+2025-08-10 10-56-02,Takeaway,Cash,ch1002,Palak Patta Chaat,1,42.8,38.52,546.03
+2025-08-10 10-56-02,Takeaway,Cash,vd1002,Cheese Vada Pav,2,37.45,67.41,546.03
+2025-08-10 10-56-02,Takeaway,Cash,pk1001,Aloo Pakora,2,21.2,38.16,546.03
+2025-08-10 10-56-02,Takeaway,Cash,pk1003,Paneer Cheese Pakora,4,53.0,190.8,546.03
+2025-08-10 10-56-02,Takeaway,Cash,ds1002,Choco Truffle Pastry,2,64.8,116.64,546.03

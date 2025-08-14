@@ -1,0 +1,6 @@
+Timestamp,Service Mode,Payment Mode,Food ID,Food Name,Qty,Unit Price (with GST),Total Price,Total Bill Amount
+2025-08-08 18-43-03,Takeaway,UPI,sms1001,Cheese Samosa,1,42.0,37.8,186.8
+2025-08-08 18-43-03,Takeaway,UPI,vd1002,Cheese Vada Pav,1,37.45,33.71,186.8
+2025-08-08 18-43-03,Takeaway,UPI,pk1002,Paneer Pakora,1,37.1,33.39,186.8
+2025-08-08 18-43-03,Takeaway,UPI,mm1001,Veg Steam Momos,1,42.4,38.16,186.8
+2025-08-08 18-43-03,Takeaway,UPI,ds1006,White Forest Pastry,1,48.6,43.74,186.8
